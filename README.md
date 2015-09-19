@@ -1,2 +1,2 @@
 # datasciencecoursera
-Report for Coursera data science materials
+Repo for Coursera data science materials
